@@ -1,4 +1,4 @@
-# I am Rich
+# Contador
 
 Na primeira aula do #nlwtogether missão flutter aprendemos a fazer um contador do zero. 
 O mais importante foi consolidação de conceitos importantes como função com parâmetros 
